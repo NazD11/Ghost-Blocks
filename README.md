@@ -8,8 +8,8 @@ Get the file "GhostBlocks" from the GitHub, and put it into your modules folder.
 
 Open your Minecraft instance and type "/ct load".
 
-Open your keybinds and find the Chat Triggers tab, then bind the GhostBlock key to your choosing.
+Open your keybinds and find the Chat Triggers tab, then bind the Ghost Bind key to your choosing.
 
 USAGE:
 
-To use the module, hold your Ghost Blocks module key.
+To use the module, hold your Ghost Bind keybind.
