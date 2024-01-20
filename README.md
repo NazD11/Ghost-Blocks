@@ -1,6 +1,10 @@
 # Ghost-Blocks
 Ghost blocks for minecraft 1.8.9 chattriggers
 
+## WARNING:
+
+This module IS bannable so please, use at your own risk.
+
 ## INSTALLATION:
 
 (Insure the chat triggers mod is installed on the 1.8.9 forge client!!!)
