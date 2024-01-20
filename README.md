@@ -1,7 +1,7 @@
 # Ghost-Blocks
 Ghost blocks for minecraft 1.8.9 chattriggers
 
-INSTALLATION:
+## INSTALLATION:
 
 (Insure the chat triggers mod is installed on the 1.8.9 forge client!!!)
 
